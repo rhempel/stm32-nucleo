@@ -1,0 +1,3 @@
+[submodule "mbed-hal-st-stm32f4"]
+	path = mbed-hal-st-stm32f4
+	url = https://github.com/ARMmbed/mbed-hal-st-stm32f4.git
